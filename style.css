@@ -7,9 +7,10 @@ header{
   color: #fff;
 }
 
-body {
+.container{
   display: flex;
   flex-direction: column;
-}
+};
+
 
 
