@@ -7,7 +7,7 @@ header{
   color: #fff;
 };
 
-main{
-  disaplay: flex;
+body {
+  display: flex;
   flex-direction: row;
 };
