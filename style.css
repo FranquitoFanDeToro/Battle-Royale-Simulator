@@ -31,7 +31,7 @@ header {
 }
 
 #aside_escenarios{
-  width: 80px;
+  max-width: 150px;
   display: flex;
   border-right: 1px solid #fff;
 }
@@ -47,6 +47,7 @@ main {
   padding: 20px;
   overflow-y: auto;
 }
+
 
 
 
