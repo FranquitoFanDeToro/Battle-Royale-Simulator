@@ -1,5 +1,13 @@
+* {
+  font-family: "Aldrich", sans-serif;
+};
+
 header{
   background-color: #262626;
   color: #fff;
 };
 
+main{
+  disaplay: flex;
+  flex-direction: row;
+};
